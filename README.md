@@ -1,4 +1,3 @@
-www.patika.dev
 
 Object Oriented Programming > Üniversite Yönetim Sistemi
 
